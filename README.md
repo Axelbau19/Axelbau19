@@ -28,10 +28,13 @@
 - 🔭 I’m currently working on my Ecomerce Project by name is "Cuidado con el michi"
 - 🌱 I’m currently learning JetpackComposable(Kotlin) and NestJs.
 - 🥅 2020 Goals: Contribute to projects
-- 💬 Ask me about music, I like to spend my time looking for new music :smile
+- 💬 Ask me about music, I like to spend my time looking for new music :smile:
 - 🧗 I try to: Make Music like as RnB and Funk, Pop,etc
 - ⚡ Fun fact: My pseudonym as an artist is Neskz
 
 <br>
-
-
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center">Tech Stack<img height="40" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
