@@ -46,3 +46,15 @@
 <br>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center">Get in touch <img height="40" src="https://wordsbymul.files.wordpress.com/2019/07/giphy-16.gif?w=291&h=291"></h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bautista-rosales-alexis-68a800241/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="bautista.ros.naranja.2017@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
+
