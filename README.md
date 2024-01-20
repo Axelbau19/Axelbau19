@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/bautista-rosales-alexis-68a800241/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="bautista.ros.naranja.2017@gmail.com" target="_blank">
+  <a href="mailto:bautista.ros.naranja.2017@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
