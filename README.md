@@ -24,12 +24,9 @@
 
 
 
-- 🔭 I’m currently working on my Ecomerce Project
-- 🌱 I’m currently learning JetpackComposable(Kotlin) and NestJs.
-- 🥅 2020 Goals: Contribute to projects
+
 - 💬 Ask me about music, I like to spend my time looking for new music :smile:
-- 🧗 I try to: Make Music like as RnB and Funk, Pop,etc
-- ⚡ Fun fact: My pseudonym as an artist is Neskz
+
 
 <br>
 <!-- RAINBOW LINE TOP -->
