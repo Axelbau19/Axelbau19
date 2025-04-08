@@ -16,19 +16,11 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h3 align="center">A passionate programmer student by Instituto Politecnico Nacional, My focus working is about designer/developer software (Web and Mobile) </h3>
+<h3 align="center">A passionate programmer student by Instituto Politecnico Nacional, My focus working is about Data Scientist</h3>
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br>
 
-
-
-
-- 💬 Ask me about music, I like to spend my time looking for new music :smile:
-
-
-<br>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Tech Stack<img height="40" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1>
