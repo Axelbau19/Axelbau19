@@ -16,7 +16,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h3 align="center">A passionate programmer student by Instituto Politecnico Nacional, My focus working is about Data Scientist</h3>
+<h3 align="center">A passionate programmer  by Instituto Politecnico Nacional, My focus working is about Data Scientist</h3>
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
