@@ -1,7 +1,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- H1 -->
-<h1 align="center">Hi 👋, I'm Axel / Hola 👋, Soy Axel  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
 <!--Rainbow Line-->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -29,7 +29,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,ts,react,nestjs,nodejs,php,py,flask,java,kotlin,androidstudio,mysql,mongodb,vscode,idea,figma,linux,gradle" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,ts,react,nestjs,nodejs,php,py,flask,java,kotlin,mysql,mongodb,linux,gcp,scala,sklearn" />
   </a>
 </p>
 <br>
